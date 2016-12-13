@@ -95,3 +95,6 @@ VENV/
 
 # VScode
 .vscode/
+.vscode
+*.vscode
+*.vscode/
